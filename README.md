@@ -1,6 +1,6 @@
 # Min extended
 
-This is my fork of [minbrowser](https://github.com/minbrowser/min) with some of small changes, which I did for own comfort. Most of this changes I'll try to contribute to an original repo, but if you need them right now, you can use this version.
+This is my fork of [minbrowser](https://github.com/minbrowser/min) with some small changes, which I did for own comfort. Most of this changes I'll try to contribute to the original repo, but if you need them right now, you can use this version.
 
 If you want to contribute, better suggest changes to the original repository.
 
