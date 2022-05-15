@@ -1,3 +1,16 @@
+# Min extended
+
+This is my fork of [minbrowser](https://github.com/minbrowser/min) with some of small changes, which I did for own confort. Most of this changes I'll try to contribute to an original repo, but if you need them right now, you can use this version.
+
+If you want to contribute, better suggest changes to the original repository.
+
+### List of changes:
+
+- electron updated to version 18.2.3 (and Chromium inside to v100)
+- added "Restore closed tab" item in menu
+
+
+
 # Min
 
 Min is a fast, minimal browser that protects your privacy. It includes an interface designed to minimize distractions, and features such as:
